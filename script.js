@@ -8,4 +8,7 @@ function teste(ola){
 
 	console.log(ola);
 
-}
+};
+function getElement(obj){
+	return document.getElementById(obj);
+};
