@@ -15,4 +15,5 @@ function getElement(obj){
 
 teste('Hello');
 getElement('teste');
+olaMundo();
 
