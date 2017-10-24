@@ -12,3 +12,7 @@ function teste(ola){
 function getElement(obj){
 	return document.getElementById(obj);
 };
+
+teste('Hello');
+getElement('teste');
+
